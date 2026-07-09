@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#2e7d32"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f2f6f2"
+textColor = "#1b1b1b"
+font = "sans serif"
+
+[server]
+# headless=false: al iniciar, Streamlit abre el navegador automaticamente.
+headless = false
+port = 8501
+
+[browser]
+gatherUsageStats = false
