@@ -6,7 +6,7 @@ Aplicativo interactivo (Streamlit) que integra los metodos RSM para un caso
 del sector agroindustrial ecuatoriano: optimizacion del tostado de cacao
 Nacional. Permite a un usuario no especialista:
 
-  1. Definir factores y generar disenos (CCD / Box-Behnken).
+  1. Definir factores y generar diseños (CCD / Box-Behnken).
   2. Cargar datos experimentales.
   3. Ajustar modelos de 1er/2do orden con ANOVA, falta de ajuste y R2.
   4. Diagnosticar (residuos, Pareto, perturbacion).
@@ -106,7 +106,7 @@ st.markdown(
 )
 
 tabs = st.tabs([
-    "1. Diseno",
+    "1. Diseño",
     "2. Datos",
     "3. Modelo y ANOVA",
     "4. Diagnostico",
