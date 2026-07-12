@@ -45,7 +45,7 @@ DATA_DEMO = "data/tostado_cacao.csv"
 def _default_factors():
     return [
         Factor("Temperatura", 110.0, 150.0, "C"),
-        Factor("Tiempo", 15.0, 35.0, "min"),
+        Factor("Tiempo", 20.0, 50.0, "min"),
         Factor("Velocidad", 1.0, 2.0, "m/s"),
     ]
 
