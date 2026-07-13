@@ -129,9 +129,7 @@ AplicativoRSM/
 ---
 
 ## 7. Declaración de uso de IA
-El detalle está en `reporte_tecnico.pdf` (sección *Declaración de uso de IA*).
-Cada integrante del grupo debe poder explicar cualquier línea del código en la
-defensa oral.
+Este proyecto utilizó herramientas de IA generativa exclusivamente como asistentes de coprogramación para optimizar arreglos vectoriales en NumPy y estructurar la lógica UX/UI en Streamlit. Las interpretaciones estadísticas, la verificación de los signos de los eigenvalores frente a los criterios físicos del proceso y la redacción del informe técnico final fueron auditadas, corregidas y validadas en su totalidad por los autores del grupo.
 
 ## 8. Licencia
 Uso académico. © Grupo J — UCE.
